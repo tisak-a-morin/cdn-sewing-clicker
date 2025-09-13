@@ -1,0 +1,21 @@
+{
+  "id": "bundle_starter_sewing_01",
+  "name": {
+    "en": "Beginner Sewing Kit",
+    "fr": "Kit de couture débutant"
+  },
+  "description": {
+    "en": "Includes 200 thread, 1 golden needle, and 1 speed boost.",
+    "fr": "Inclut 200 fils, 1 aiguille dorée et 1 bonus de vitesse."
+  },
+  "items": [
+    { "type": "resource", "id": "thread_basic", "quantity": 200 },
+    { "type": "tool", "id": "needle_gold", "quantity": 1 },
+    { "type": "boost", "id": "speed_boost_10min", "quantity": 1 }
+  ],
+  "price": {
+    "currency": "USD",
+    "value": 1.99
+  },
+  "rarity": "common"
+}
