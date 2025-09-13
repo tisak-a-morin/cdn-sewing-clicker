@@ -1,9 +1,11 @@
 {
-  "id": "bundle_starter_sewing_01", 
+  "id": "bundle_starter_sewing_01",
+  "name": "Starter Sewing Bundle",
   "points": 5000,
+  "icon": "https://cdn.mysite.com/icons/bundle_starter.png",
   "unlockables": [
     { "category_id": "accessory", "id": "thread_basic", "quantity": 200 },
     { "category_id": "accessory", "id": "needle_gold", "quantity": 1 },
     { "category_id": "upgrade", "id": "speed_boost_10min", "quantity": 1 }
-  ],
+  ]
 }
