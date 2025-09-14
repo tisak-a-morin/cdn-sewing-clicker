@@ -6,8 +6,8 @@
       "start_date": "2025-12-01T00:00:00Z",
       "end_date": "2025-12-31T23:59:59Z",
       "unlockables": [
-        { "id": "u_01", "category_id": "fabric", "quantity": 1 },
-        { "id": "u_02", "category_id": "accessory", "quantity": 1 }
+        { "id": "u_01", "category_id": "category_fabric", "discount_percent": 5 },
+        { "id": "u_02", "category_id": "category_accessory", "discount_percent": 10 }
       ]
     },
     {
@@ -16,7 +16,16 @@
       "start_date": "2026-03-01T00:00:00Z",
       "end_date": "2026-03-31T23:59:59Z",
       "unlockables": [
-        { "id": "u_03", "category_id": "fabric", "quantity": 1 }
+        { "id": "u_03", "category_id": "category_fabric", "discount_percent": 5 }
+      ]
+    },
+      {
+      "id": "sale_000",
+      "name": "Active Sale",
+      "start_date": "2025-03-01T00:00:00Z",
+      "end_date": "2027-03-31T23:59:59Z",
+      "unlockables": [
+        { "id": "u_03", "category_id": "fabric", "discount_percent": 5 }
       ]
     }
   ]
