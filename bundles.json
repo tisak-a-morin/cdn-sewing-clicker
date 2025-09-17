@@ -17,8 +17,7 @@
       "points": 10000,
       "icon": "https://cdn.mysite.com/icons/bundle_advanced.png",
       "unlockables": [
-        { "category_id": "accessory", "id": "thread_silk", "quantity": 500 },
-        { "category_id": "upgrade", "id": "speed_boost_30min", "quantity": 1 }
+        { "category_id": "accessory", "id": "accessory_thread_allpurpose", "quantity": 500 },
       ]
     }
   ]
